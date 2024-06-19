@@ -1,0 +1,5 @@
+Extract entities from wiki data and build KG:
+https://www.kaggle.com/code/ranjitp20/building-knowledge-graph
+
+Visualize with networkx and analyze the graph:
+https://lopezyse.medium.com/knowledge-graphs-from-scratch-with-python-f3c2a05914cc
